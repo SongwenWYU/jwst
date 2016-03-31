@@ -25,11 +25,11 @@
             <artifactId>struts2-convention-plugin</artifactId>
             <version>2.3.28</version>
         </dependency>
-        <dependency>
+        <!-- <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <version>1.4.191</version>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>com.jcraft</groupId>
             <artifactId>jsch</artifactId>
@@ -78,12 +78,12 @@
             <version>1.1</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
+        <!-- <dependency>
             <groupId>org.eclipse.jetty.orbit</groupId>
             <artifactId>javax.servlet</artifactId>
             <version>3.0.0.v201112011016</version>
             <scope>provided</scope>
-        </dependency>
+        </dependency> -->
   </dependencies>
   <build>
     <finalName>jwst</finalName>
