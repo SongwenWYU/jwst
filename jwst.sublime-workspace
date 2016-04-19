@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"data",
+				"datas"
+			],
+			[
+				"node",
+				"node"
+			],
+			[
+				"json",
+				"jsonUrl"
+			],
+			[
+				"obj",
+				"objtip"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"is",
+				"isNull"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"adu",
+				"audit_time"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"ins",
+				"INSERT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/webapp/secure-shell/secure_shell.jsp",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/webapp/index.jsp",
+			"settings":
+			{
+				"buffer_size": 2507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "userid\nsession\n",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows",
+				"name": "userid"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/work/gitwork/jwst",
+		"/E/work/gitwork/jwst/src",
+		"/E/work/gitwork/jwst/src/main",
+		"/E/work/gitwork/jwst/src/main/webapp",
+		"/E/work/gitwork/jwst/src/main/webapp/secure-shell"
+	],
+	"file_history":
+	[
+		"/G/temp/jcterm-0.0.11/src/main/java/com/jcraft/jcterm/JCTermSwingFrame.java",
+		"/E/work/gitwork/jwst/.gitignore",
+		"/C/Users/Songwen/AppData/Local/Temp/HZ$D.132.1473/HZ$D.132.1474/term.js-0.0.7/src/term.js",
+		"/E/work/gitwork/jwst/src/main/webapp/_res/js/tty/term.js",
+		"/C/Users/Songwen/Desktop/pengchuang_event_power.sql",
+		"/F/sendi/无标题文档",
+		"/E/games/Grand Theft Auto V/注意：请运行Launcher.exe开始游戏",
+		"/C/Users/Songwen/Desktop/pengchuang_event.sql",
+		"/C/Users/Songwen/Desktop/pengchuang_power.sql",
+		"/E/work/gitwork/jwst/src/main/webapp/index.jsp",
+		"/V/access.zh-cn/accessmui.xml",
+		"/E/work/workspace2/sublimework/jwst.sublime-project",
+		"/E/work/workspace2/jwst/src/main/webapp/index.jsp",
+		"/E/work/development tools/apache-maven-3.3.9/conf/settings.xml",
+		"/E/work/smartGit/jwst/.gitignore",
+		"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/KeyBoxConfig.properties",
+		"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/webapps/keybox.xml",
+		"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/jaas.conf",
+		"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/bin/jetty.sh",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNSList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNS.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesDNS.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCFList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMGCF.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCF.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCFList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesPCSCF.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCF.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteConfFilesList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/configFilesManage.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKAList.jsp",
+		"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCF.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCFList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCFList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCF.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCF.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCFList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFPList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFCList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFC.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELASList.jsp",
+		"/E/work/workspace/logAudit/src/com/sendi/logAudit/citrix/CitrixPersonnalInfoAction.java",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFP.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFP.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFC.js",
+		"/C/Users/Songwen/Desktop/hosts",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKA.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesAKA.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMMTELAS.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELAS.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/selectpicker.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/loadDataFormReset.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage_list.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCityList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/voLteConfigList.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCity.jsp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/configFilesManage.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/voLteConfig.js",
+		"/C/Users/Songwen/Downloads/smartsvn.license",
+		"/E/work/development tools/SmartSVN 9.1/licenses/smartsvn.license",
+		"/F/sendi/需求/VOLTE/笔记/各个硬件 网元缩写全称",
+		"/C/Users/Songwen/Desktop/volte_resources.sql",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage.js",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/confSync_manage.js",
+		"/E/work/workspace/logAudit/WebRoot/system/resetPwd.jsp",
+		"/E/work/workspace/logAudit/WebRoot/page/msgbox/css/msgbox.css",
+		"/E/work/workspace/logAudit/WebRoot/system/js/resetPwd.js",
+		"/E/work/dumps/pengchuang/pengchuang_logsdata.sql",
+		"/C/Users/Songwen/Desktop/temp/sendinmdb.sql",
+		"/E/work/workspace/logAudit/WebRoot/page/css/resetPwd.css",
+		"/E/work/dumps/ifcfg-eth0",
+		"/E/work/dumps/cgred.conf",
+		"/E/work/dumps/network-scripts/network-functions",
+		"/E/work/dumps/network-scripts/network-functions-ipv6",
+		"/E/work/workspace/vtlte/.classpath",
+		"/C/Users/Songwen/Desktop/temp/org.eclipse.core.resources.prefs",
+		"/E/work/dumps/prelink.conf",
+		"/E/work/dumps/profile",
+		"/E/work/dumps/ssh_config",
+		"/E/work/dumps/dhclient.d/nis.sh",
+		"/E/work/development tools/eclipse-jee-mars-2-win32-x86_64/eclipse/artifacts.xml",
+		"/E/work/myfile/js/vakata-jstree-3.2.1-0-g8ea6ce7/vakata-jstree-8ea6ce7/demo/basic/index.html",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/index.html",
+		"/C/Users/Songwen/Desktop/设备导入空指针异常",
+		"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/src/main/resources/zrlog.properties",
+		"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/developer.md",
+		"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/install.md",
+		"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/bootstrap-combined.min.css",
+		"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/layoutit.css",
+		"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/bootstrap-theme.min.css",
+		"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/style.css",
+		"/C/Users/Songwen/Desktop/temp/votel demo/index.html",
+		"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/index.html",
+		"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/css/layoutit.css",
+		"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/js/scripts.js",
+		"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/js/scripts.js",
+		"/F/sendi/需求/VOLTE/笔记/IM-MGW概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/MGCF概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/EPC概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/DRA概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/ENUM概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/SS概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/BAC概念及相关资料",
+		"/F/sendi/需求/VOLTE/笔记/P-CSCF概念 功能",
+		"/F/sendi/需求/VOLTE/笔记/HSS 概念 功能",
+		"/E/work/dumps/backsup/login.jsp",
+		"/C/Users/Songwen/Desktop/temp/test/test.html",
+		"/E/work/dumps/backsup/image.jsp",
+		"/E/work/dumps/backsup/login_log_verify.jsp",
+		"/E/work/dumps/createtab.sql",
+		"/E/work/dumps/createtab_data.sql",
+		"/C/Users/Songwen/Desktop/login.jsp",
+		"/E/work/dumps/backsup/web.xml",
+		"/C/Users/Songwen/Desktop/temp/pengchuang_logs.sql",
+		"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Songwen/Desktop/test.html",
+		"/E/work/dumps/backsup/dwr.xml",
+		"/E/work/dumps/backsup/applicationContext-Service.xml",
+		"/E/work/dumps/backsup/struts-loginTableReport.xml",
+		"/F/sendi/需求/认证中心/cademo/AccountServiceDemo.java",
+		"/F/sendi/需求/认证中心/cademo/LogServiceDemo.java",
+		"/F/sendi/需求/认证中心/cademo/AuthorizationServiceDemo.java",
+		"/F/sendi/需求/认证中心/cademo/AuthenticationServiceDemo.java",
+		"/C/Users/Songwen/Desktop/temp/pd-483730e8-ad47-11e4-a1ca-00163e001348/表单验证/index.css",
+		"/C/Users/Songwen/Desktop/temp/pd-483730e8-ad47-11e4-a1ca-00163e001348/表单验证/index.html",
+		"/C/Users/Songwen/Desktop/temp/CSSButtonsPseudoElements/css/demo.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tangoColors",
+			"#",
+			"http",
+			"col-sm-3",
+			"		     	\n",
+			"												   \n",
+			"col-sm-3",
+			"												    \n",
+			"												   \n",
+			"search_coveredLand",
+			"col-sm-3",
+			"												   \n",
+			"col-sm-3",
+			"MRFC查询结果",
+			"							                             	\n",
+			"												    \n",
+			")\n",
+			"console.log(data)",
+			"validForm",
+			"()\n",
+			"myModal",
+			"msgdemo2",
+			"addAndModifyForm",
+			"validForm",
+			"		          		\n",
+			"dynMenu",
+			"				\n",
+			"	    \n",
+			"		\n",
+			"<button id=\"btn-sync\" type=\"button\" class=\"btn btn-success ladda-button\" data-style=\"expand-left\" style=\" m",
+			"								",
+			"mask",
+			"							\n",
+			"									",
+			"				\n",
+			"console",
+			"og(val)\n	console.log(type)\n	console.log(row)",
+			"		          		\n",
+			"-->",
+			"console",
+			"setButton",
+			"\">\n",
+			"&",
+			"tabs-left",
+			"mat",
+			"\n								<tr id=\"SMSInput\" style=\"display: true;\">\n									<td width=\"29%\" style=\"vertical-align: top;\" align=\"right\" class=\"login_font\">&#30701;&#20449;&#39564;&#35777;&#30721;&#65306;</td>\n									<td width=\"71%\" align=\"left\"><input type=\"text\" id=\"SMSCode\" name=\"SMSCode\" class=\"loginput\" /><input id=\"login:sendSMS\" name=\"login:sendSMS\" onclick=\"startCount();A4J.AJAX.Submit('login',event,{'similarityGroupingId':'login:sendSMS','parameters':{'login:sendSMS':'login:sendSMS'} } );return false;\" value=\"&#33719;&#21462;\" type=\"button\" /></td>\n								</tr>",
+			"/>\n",
+			"hidden",
+			"						\n",
+			"				\n",
+			"					\n",
+			"citrix_token",
+			"queryForDeviceOf90",
+			"linkABlue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/webapp/secure-shell/secure_shell.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/webapp/index.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"auto_name": "userid",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jwst.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
